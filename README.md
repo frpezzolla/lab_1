@@ -11,13 +11,13 @@ Fabrizzio Pezzolla is a human specimen of unknown origin. Its birth took place l
 ## Methodology
 The present study consists of a combination of participant observation, direct interaction and speculative guesswork, often referred to in scientific circles as the "shot in the dark" approach. Such approach was selected due to its high level of adaptability and complete lack of requirement for actual evidence. 
 
-The specimen's Twitter activity was analised and processed using ```code-davinci-002```, a language processing model developed by OpenAI. However, any attempt at analysing the results was frustrated by the obscure nature of the model's responses, often structured in Iambic Pentameter and using poetic, indirect terminology. This line of inquiry was frustrated as the Twitter domain stopped working, redirecting to an unknown site alegedly called X. Instagram and Facebook activity could not be followed upon, as the specimen did not accept our relentless friend and follow requests.
+The specimen's Twitter activity was analised and processed using ```code-davinci-002```, a language processing model developed by OpenAI. However, any attempt at analysing the results was frustrated by the obscure nature of the model's responses, often structured in Iambic Pentameter and using poetic, indirect terminology. We could not utilise OpenAI's ChatGPT as one member of our team (Frank!) got our IP address banned after allegedly trying to build a bath bomb using queries with dubious language. This line of inquiry was frustrated as the Twitter domain stopped working, redirecting to an unknown site alegedly called X, which we thought was a virus. Instagram and Facebook activity could not be followed upon, as the specimen did not accept our relentless friend and follow requests.
 
-Physical interactions were attempted. In one instance, a member of our team approached Fabrizzio disguised as an environmental activist handing out flyers. The specimen answered "je ne comprends pas" before walking away, which we interpret as evidence for Polish origin, plain cheapskatenes or environmental cinycism.
+Physical interactions were attempted. In one instance, a member of our team approached Fabrizzio disguised as an environmental activist handing out flyers. The specimen answered "je ne comprends pas" before walking away, which we interpret as evidence for Polish origin, plain cheapskatenes or environmental cinycism. Contact was also achieved through dating sites such as Bumble, but the researcher that met the specimen in person eloped with it shortly after, ignoring any attempt at contact from our group. At time of writing, Charlotte appears to have filed for divorce.
 
 ## Results
 
-We appear to have not obtiained any useful knowledge.
+We appear to have not obtained any useful insight on the subject's circumstances.
 
 ## Conclusion
 
